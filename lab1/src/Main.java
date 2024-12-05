@@ -20,8 +20,12 @@ public class Main {
         carRepository.addCar(new Car("Москвич 408", "Легковой", 950, driver2, engine2));
         carRepository.addCar(new Car("Жигули", "Легковой", 900, driver3, engine1));
 
+<<<<<
+        // Получаем список автомобилей из репозитория List<Car> cars = carRepository.getAllCars();
+
         // Получаем список автомобилей из репозитория
-        List<Car> cars = carRepository.getAllCars();
+        List<Car> cars = carRepository.getAllCars(cars);
+
 
         // Вывод водителей со стажем более 5 лет
         VehicleMethods.printExperiencedDrivers(cars);
