@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7ca665-573b-4fb4-9966-1067a942c209" name="Changes" comment="" />
+    <list default="true" id="ab7ca665-573b-4fb4-9966-1067a942c209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/VehicleMethods.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +44,7 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "ec182203",
+    "git-widget-placeholder": "lr1",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/USER/Desktop/Универ/2 курс/1 сем/ВВРПО/lab4/lab3",
